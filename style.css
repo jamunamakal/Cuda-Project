@@ -1,0 +1,239 @@
+body{
+    margin: 0;
+    font-size: 16px;
+    line-height: 20px;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+h1, h2, h3, h4, h5, h6, p{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.clear{
+    clear: both;
+}
+header{
+    background-color: #fffae8;
+    padding: 20px 0;
+}
+header .menu{
+    float: right;
+    margin-top: 10px;
+}
+header .menu li{
+    float: left;
+    padding-right: 15px;
+    text-transform: uppercase;
+}
+header .menu li a{
+    color: black;
+}
+.banner{
+    background-image: url(../image/Banner_Image_final.jpg);
+    background-image: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px 0;
+}
+.banner p{
+    color: #fff;
+    font-size: 22px;
+    line-height: 26px;
+    margin-bottom: 50px;
+}
+.banner a{
+    background-color: #eb7d4b;
+    padding: 10px 25px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.provider{
+    padding: 100px 0;
+    text-align: center;
+
+}
+.provider h2{
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #3c4761;
+}
+.provider p{
+    margin-top: 40px;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
+ .provider h3{
+    font-size: 22px;
+    text-transform: uppercase;
+    margin-top: 30px;
+ }
+ 
+ .provider .box1, 
+ .provider .box2, 
+ .provider .box3, 
+ .provider .box4{
+    float: left;
+    width: 25%;
+    margin-top: 100px;
+ }
+ .team{
+    background-color: #e7f1f8;
+    padding: 100px 0;
+    text-align: center;
+ }
+.team h2{
+font-size: 30px;
+text-align: center;
+}
+.team h4{
+    color: #addcf1;
+}
+.team p{
+    margin: 20px 0;
+    text-align: center;
+}
+.team .b1, .b2, .b3, .b4{
+    float: left;
+    width: 23%
+}
+.team img{
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+.team .b1 .icon li,
+.team .b2 .icon li,
+.team .b3 .icon li,
+.team .b4 .icon li{
+    float: left;
+    padding: 0 5px;
+    margin-top: 5px;
+    text-align: center;
+}
+.team .b1 .icon li a,
+.team .b2 .icon li a,
+.team .b3 .icon li a,
+.team .b4 .icon li a{
+    border-radius: 100%;
+    background-color: #bdd1df;
+    padding: 5px 10px;
+    color: #fff;
+}
+.legend{
+    background-color: #d74680;
+    padding: 50px 0;
+    text-align: center;
+}
+.legend .img1, .text1{
+float: left;
+padding: 0 10px;
+}
+.legend .img2, .text2{
+    float: left;
+    padding: 0 10px;
+}
+.legend .img3, .text3{
+    float: left;
+    padding: 0 10px;
+}
+.legend .img4, .text4{
+    float: left;
+    padding: 0 10px;
+}
+.legend .legend1, .legend2{
+    float: left;
+    padding-left: 250px;
+    margin-top: 100px;
+}
+.legend img{
+border-radius: 50%;
+}
+.legend p{
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+.legend h2{
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+.legend h5{
+    color: #fff;
+}
+.legend h3{
+    color: #ffffff;
+}
+.legend h6{
+    color: #ffdd99;
+}
+.legend h3, h6, p{
+    text-align: left;
+}
+.legend h6{
+    font-size: 14px;
+}
+.touch{
+    background-color: #3c5499;
+    padding: 100px 0;
+    text-align: center;
+}
+.touch h3{
+    color: #fff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.touch p{
+    color: #fff;
+    text-align: center;
+    margin-bottom: 300px;
+}
+.touch a{
+    background-color: #30bae7;
+    padding: 10px 25px;
+    color: #fff;
+    border-radius: 5px;
+}
+.footer{
+background-color: #344b8e;
+padding: 30px 0;
+text-align: center;
+}
+.footer .footer-menu{
+    float: right;
+    margin-top: 10px;
+    text-align: center;
+}
+.footer .footer-menu li{
+    float: left;
+    padding-right: 15px;
+    text-transform: capitalize;
+}
+.footer .footer-menu li a{
+    color: #fff;
+}
+    
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+
+
